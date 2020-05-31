@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">UAS 180030517 2</string>
+    <string name="ganti_foto">Ganti Foto</string>
+    <string name="first_name">Nama Barang</string>
+    <string name="last_name">Tipe Barang</string>
+    <string name="number">Harga Modal</string>
+    <string name="email">Harga Jual</string>
+    <string name="save">Simpan</string>
+    <string name="add">Tambah Barang</string>
+    <string name="edit">Edit Barang</string>
+    <string name="delete">Hapus Barang</string>
+    <string name="gender_male">Ada</string>
+    <string name="gender_female">Kosong</string>
+</resources>
